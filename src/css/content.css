@@ -1,0 +1,24 @@
+.content-container {
+  padding: 50px;
+}
+.content-title {
+  text-align: center;
+}
+.content-title h1,
+h3 {
+  font-size: 38px;
+}
+.content-des ul {
+  padding-left: 20px;
+}
+.content-des h3 {
+  font-size: 38px;
+  margin: 0;
+}
+.content-des p {
+  font-size: 20px;
+}
+.content-image img {
+  width: 100%;
+  height: auto;
+}
